@@ -1,0 +1,9 @@
+[package]
+name = "rusty-cave"
+version = "0.1.0"
+authors = ["Mendelt Siebenga <msiebenga@lely.com>"]
+edition = "2018"
+
+[dependencies]
+cmdr = "0.3.4"
+
